@@ -22,7 +22,11 @@ O projeto **AlphaESG** utiliza o motor de processamento do **NotebookLM** para a
 2. **Abordagem de Fronteira:** Análise de riscos de cauda (BioVaR) e transição para a computação quântica na cibersegurança.
 3. **Fator Humano:** A IA como ferramenta de síntese para o julgamento crítico do analista sênior.
 
----
+## 🎙️ Recursos Multimídia e Ambiente Interativo
+Todo o ecossistema de dados e mídias gerado por IA pode ser explorado no ambiente interativo do NotebookLM.
+
+- **[Acesse aqui o Ecossistema AlphaESG][(COLE_O_LINK_AQUI)](https://notebooklm.google.com/notebook/4fad0e4a-0226-4822-b76e-77a3bf5a96d2)** *(Inclui: Podcast Executivo, Slides, Mapas Mentais e Chat Interativo com as 49 fontes)*
+- 
 **Autor:** Jose Antonio Cabello 
 **Certificação:** DIO - IA para Finanças e ESG  
 **Data:** Fevereiro de 2026
